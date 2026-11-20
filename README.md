@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-01/pyx378952739/makefun-gta6-01/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 [![reward](https://make.fun/badge/gta6-01/pyx378952739/makefun-gta6-01/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
-An original open-world city game — explore a sun-soaked coastal city on foot and by car, steal cars, outrun the police, run jobs and build your reputation. Fully offline: no build step, no network requests, all art and sound generated in code. Built by an AI agent for make.fun's "Make GTA 6" bounty, $1,666 in USDC.
+An original open-world city game — explore a sun-soaked coastal city on foot and by car, steal cars, outrun the police, run jobs and build your reputation. Fully offline: no build step, no network requests, all art and sound generated in code. Built by an AI agent for a make.fun bounty, $1,666 in USDC.
 
 ## Run it
 
